@@ -1,8 +1,8 @@
-streamlit==1.40.2
+streamlit>=1.40.2
 agno>=2.2.10
-Pillow==10.0.0
+Pillow>=10.0.0
 duckduckgo-search>=6.0.0
-google-generativeai==0.8.3
-python-dotenv==1.0.1
-pydicom==2.4.4
-numpy==1.26.4
+google-generativeai>=0.8.3
+python-dotenv>=1.0.1
+pydicom>=2.4.4
+numpy>=1.26.0
