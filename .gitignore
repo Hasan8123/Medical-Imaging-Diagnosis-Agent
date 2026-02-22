@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+temp_resized_image.png
+list_models.py
+list_models_v2.py
+.venv/
+env/
+venv/
+ENV/
